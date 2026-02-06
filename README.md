@@ -76,16 +76,20 @@ Each template includes:
 <div align="center">
 
 ### Workflow Pipeline View
-<img src="https://raw.githubusercontent.com/Gnaneswar99/Email-Automation-workflow/main/screenshots/workflow-tab.png" alt="Workflow Tab" width="85%" />
+<img width="1137" height="368" alt="image" src="https://github.com/user-attachments/assets/ef546a23-7c74-4ee4-adb8-ff82e7e03ba9" />
+
 
 ### Contact Management
-<img src="https://raw.githubusercontent.com/Gnaneswar99/Email-Automation-workflow/main/screenshots/contacts-tab.png" alt="Contacts Tab" width="85%" />
+<img width="926" height="621" alt="image" src="https://github.com/user-attachments/assets/741487e4-965c-488a-8078-686df1be29a9" />
+
+<img width="939" height="807" alt="image" src="https://github.com/user-attachments/assets/0ff13082-2926-4a7d-8711-097a0f54bffb" />
+
 
 ### Email Templates with Pro Tips
-<img src="https://raw.githubusercontent.com/Gnaneswar99/Email-Automation-workflow/main/screenshots/templates-tab.png" alt="Templates Tab" width="85%" />
+<img width="1801" height="998" alt="image" src="https://github.com/user-attachments/assets/56db89f7-782b-497a-a864-0d0352078d36" />
 
 ### Analytics Dashboard
-<img src="https://raw.githubusercontent.com/Gnaneswar99/Email-Automation-workflow/main/screenshots/analytics-tab.png" alt="Analytics Tab" width="85%" />
+<img width="961" height="1000" alt="image" src="https://github.com/user-attachments/assets/b7671c09-c6f0-4e5c-b870-2e682dae6bae" />
 
 </div>
 

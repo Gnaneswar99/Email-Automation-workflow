@@ -4,6 +4,9 @@
 
 ### *A sleek, dark-themed React dashboard to manage and automate your cold email outreach to recruiters at big tech companies.*
 
+<img width="1195" height="995" alt="image" src="https://github.com/user-attachments/assets/9e2ce73e-bc93-453a-b563-93e3e392a229" />
+
+
 [![React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev)
 [![Vite](https://img.shields.io/badge/Vite-6.x-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -11,7 +14,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/Gnaneswar99/Email-Automation-workflow/main/screenshots/workflow-tab.png" alt="ColdReach Workflow Dashboard" width="90%" />
 
 </div>
 
